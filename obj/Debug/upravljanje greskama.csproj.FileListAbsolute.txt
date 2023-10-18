@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\upravljanje greskama\bin\Debug\upravljanje greskama.exe.config
+C:\Users\ucenik\source\repos\upravljanje greskama\bin\Debug\upravljanje greskama.exe
+C:\Users\ucenik\source\repos\upravljanje greskama\bin\Debug\upravljanje greskama.pdb
+C:\Users\ucenik\source\repos\upravljanje greskama\obj\Debug\upravljanje greskama.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\upravljanje greskama\obj\Debug\upravljanje greskama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\upravljanje greskama\obj\Debug\upravljanje greskama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\upravljanje greskama\obj\Debug\upravljanje greskama.exe
+C:\Users\ucenik\source\repos\upravljanje greskama\obj\Debug\upravljanje greskama.pdb
